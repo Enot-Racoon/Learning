@@ -1,1 +1,1 @@
-# daisyui-react-vite
+# Learning
